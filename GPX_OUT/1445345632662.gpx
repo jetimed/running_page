@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <trkseg>
+      <trkpt lat="39.83463" lon="116.294365">
+        <ele>48</ele>
+        <time>2015-10-20T12:48:52.662000Z</time>
+      </trkpt>
+      <trkpt lat="39.834713" lon="116.29451">
+        <ele>48</ele>
+        <time>2015-10-20T12:48:59.329000Z</time>
+      </trkpt>
+      <trkpt lat="39.834663" lon="116.29461">
+        <ele>63</ele>
+        <time>2015-10-20T12:49:05.996000Z</time>
+      </trkpt>
+      <trkpt lat="39.834652" lon="116.29474">
+        <ele>75</ele>
+        <time>2015-10-20T12:49:12.663000Z</time>
+      </trkpt>
+      <trkpt lat="39.834656" lon="116.29487">
+        <ele>84</ele>
+        <time>2015-10-20T12:49:19.330000Z</time>
+      </trkpt>
+      <trkpt lat="39.834656" lon="116.29487">
+        <ele>88</ele>
+        <time>2015-10-20T12:49:25.997000Z</time>
+      </trkpt>
+      <trkpt lat="39.834656" lon="116.29487">
+        <ele>89</ele>
+        <time>2015-10-20T12:49:32.664000Z</time>
+      </trkpt>
+      <trkpt lat="39.834656" lon="116.29487">
+        <ele>89</ele>
+        <time>2015-10-20T12:49:39.331000Z</time>
+      </trkpt>
+      <trkpt lat="39.83466" lon="116.29498">
+        <ele>89</ele>
+        <time>2015-10-20T12:49:45.998000Z</time>
+      </trkpt>
+      <trkpt lat="39.83469" lon="116.295105">
+        <ele>89</ele>
+        <time>2015-10-20T12:49:52.665000Z</time>
+      </trkpt>
+      <trkpt lat="39.834717" lon="116.29522">
+        <ele>89</ele>
+        <time>2015-10-20T12:49:59.332000Z</time>
+      </trkpt>
+      <trkpt lat="39.83469" lon="116.29536">
+        <ele>82</ele>
+        <time>2015-10-20T12:50:05.999000Z</time>
+      </trkpt>
+      <trkpt lat="39.83469" lon="116.29549">
+        <ele>78</ele>
+        <time>2015-10-20T12:50:12.666000Z</time>
+      </trkpt>
+      <trkpt lat="39.834667" lon="116.29561">
+        <ele>73</ele>
+        <time>2015-10-20T12:50:19.333000Z</time>
+      </trkpt>
+      <trkpt lat="39.834637" lon="116.29572">
+        <ele>67</ele>
+        <time>2015-10-20T12:50:26Z</time>
+      </trkpt>
+      <trkpt lat="39.834637" lon="116.29572">
+        <ele>62</ele>
+        <time>2015-10-20T12:50:32.667000Z</time>
+      </trkpt>
+      <trkpt lat="39.834633" lon="116.295845">
+        <ele>58</ele>
+        <time>2015-10-20T12:50:39.334000Z</time>
+      </trkpt>
+      <trkpt lat="39.834568" lon="116.29594">
+        <ele>55</ele>
+        <time>2015-10-20T12:50:46.001000Z</time>
+      </trkpt>
+      <trkpt lat="39.83448" lon="116.29598">
+        <ele>52</ele>
+        <time>2015-10-20T12:50:52.668000Z</time>
+      </trkpt>
+      <trkpt lat="39.83439" lon="116.29597">
+        <ele>50</ele>
+        <time>2015-10-20T12:50:59.335000Z</time>
+      </trkpt>
+      <trkpt lat="39.834293" lon="116.29599">
+        <ele>48</ele>
+        <time>2015-10-20T12:51:06.002000Z</time>
+      </trkpt>
+      <trkpt lat="39.834187" lon="116.29602">
+        <ele>46</ele>
+        <time>2015-10-20T12:51:12.669000Z</time>
+      </trkpt>
+      <trkpt lat="39.834084" lon="116.29602">
+        <ele>44</ele>
+        <time>2015-10-20T12:51:19.336000Z</time>
+      </trkpt>
+      <trkpt lat="39.83398" lon="116.29602">
+        <ele>42</ele>
+        <time>2015-10-20T12:51:26.003000Z</time>
+      </trkpt>
+      <trkpt lat="39.83388" lon="116.29603">
+        <ele>40</ele>
+        <time>2015-10-20T12:51:32.670000Z</time>
+      </trkpt>
+      <trkpt lat="39.833786" lon="116.29602">
+        <ele>38</ele>
+        <time>2015-10-20T12:51:39.337000Z</time>
+      </trkpt>
+      <trkpt lat="39.8337" lon="116.29601">
+        <ele>37</ele>
+        <time>2015-10-20T12:51:46.004000Z</time>
+      </trkpt>
+      <trkpt lat="39.833595" lon="116.29602">
+        <ele>37</ele>
+        <time>2015-10-20T12:51:52.671000Z</time>
+      </trkpt>
+      <trkpt lat="39.833496" lon="116.29603">
+        <ele>36</ele>
+        <time>2015-10-20T12:51:59.338000Z</time>
+      </trkpt>
+      <trkpt lat="39.833397" lon="116.29605">
+        <ele>36</ele>
+        <time>2015-10-20T12:52:06.005000Z</time>
+      </trkpt>
+      <trkpt lat="39.833397" lon="116.29605">
+        <ele>36</ele>
+        <time>2015-10-20T12:52:12.672000Z</time>
+      </trkpt>
+      <trkpt lat="39.833305" lon="116.296036">
+        <ele>35</ele>
+        <time>2015-10-20T12:52:19.339000Z</time>
+      </trkpt>
+      <trkpt lat="39.833214" lon="116.29603">
+        <ele>35</ele>
+        <time>2015-10-20T12:52:26.005000Z</time>
+      </trkpt>
+      <trkpt lat="39.833214" lon="116.29603">
+        <ele>35</ele>
+        <time>2015-10-20T12:52:32.671000Z</time>
+      </trkpt>
+      <trkpt lat="39.833122" lon="116.29603">
+        <ele>34</ele>
+        <time>2015-10-20T12:52:39.337000Z</time>
+      </trkpt>
+      <trkpt lat="39.83303" lon="116.296">
+        <ele>34</ele>
+        <time>2015-10-20T12:52:46.003000Z</time>
+      </trkpt>
+      <trkpt lat="39.832935" lon="116.29598">
+        <ele>34</ele>
+        <time>2015-10-20T12:52:52.669000Z</time>
+      </trkpt>
+      <trkpt lat="39.832836" lon="116.29598">
+        <ele>34</ele>
+        <time>2015-10-20T12:52:59.335000Z</time>
+      </trkpt>
+      <trkpt lat="39.832752" lon="116.29592">
+        <ele>34</ele>
+        <time>2015-10-20T12:53:06.001000Z</time>
+      </trkpt>
+      <trkpt lat="39.832664" lon="116.29589">
+        <ele>33</ele>
+        <time>2015-10-20T12:53:12.667000Z</time>
+      </trkpt>
+      <trkpt lat="39.83255" lon="116.29585">
+        <ele>33</ele>
+        <time>2015-10-20T12:53:19.333000Z</time>
+      </trkpt>
+      <trkpt lat="39.83255" lon="116.29585">
+        <ele>32</ele>
+        <time>2015-10-20T12:53:25.999000Z</time>
+      </trkpt>
+      <trkpt lat="39.831867" lon="116.295815">
+        <ele>28</ele>
+        <time>2015-10-20T12:53:32.665000Z</time>
+      </trkpt>
+      <trkpt lat="39.83176" lon="116.29588">
+        <ele>28</ele>
+        <time>2015-10-20T12:53:39.331000Z</time>
+      </trkpt>
+      <trkpt lat="39.831657" lon="116.2959">
+        <time>2015-10-20T12:53:45.997000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
