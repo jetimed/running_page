@@ -21,3 +21,5 @@ config.yaml
 
 # Virtual Env
 .env
+# Update Route Manual
+update-outdoor-run-route.txt
