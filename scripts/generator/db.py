@@ -123,9 +123,11 @@ def update_or_create_activity(session, run_activity):
             activity.type = run_activity.type
             activity.average_heartrate = run_activity.average_heartrate
             activity.average_speed = float(run_activity.average_speed)
-            activity.summary_polyline = (
-                run_activity.map and run_activity.map.summary_polyline or ""
-            )
+            # if workout(i.e. activity) from db has summary_polyline, skip update
+            if not activity.summary_polyline:
+                activity.summary_polyline = (
+                    run_activity.map and run_activity.map.summary_polyline or ""
+                )
     except Exception as e:
         print(f"something wrong with {run_activity.id}")
         print(str(e))
